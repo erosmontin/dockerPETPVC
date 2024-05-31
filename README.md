@@ -12,5 +12,6 @@ docker run -it petpvc:latest
 ```
 
 Alternative you can use run.sh using
-
+```bash
 docker run -it erosmontin/petpvc:latest
+```
