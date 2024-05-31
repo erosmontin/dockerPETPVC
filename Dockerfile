@@ -25,9 +25,6 @@ RUN cd build && make test && make install
 
 # executable will be in /usr/local/bin/pvc_gtm
 
-# # Run app.py when the container launches
-# Thanks for your contact info. Here are some basic links related to the project:
-
 
 #     A review of PVC problem and its clinical applications
     
@@ -50,7 +47,4 @@ RUN cd build && make test && make install
     
 #     https://github.com/UCL/PETPVC
     
-#     The package implements multiple PVC methods.
-#     We're mostly interested in the "iterative Yang" (IY) algorithm.
     
-#     I'm pretty sure there are other implementations of  "iterative Yang"  out  there. 
