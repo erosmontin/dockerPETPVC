@@ -10,3 +10,7 @@ To build the Docker image, navigate to the directory containing the Dockerfile a
 docker build -t petpvc:latest .
 docker run -it petpvc:latest
 ```
+
+Alternative you can use run.sh using
+
+docker run -it erosmontin/petpvc:latest
